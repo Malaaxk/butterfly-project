@@ -7,4 +7,3 @@
 3. Run the file butterfly.py using IDLE or Terminal:
    `bash
    python butterfly
-![Butterfly Screenshot](screenshot.png)
